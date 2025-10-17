@@ -10,11 +10,11 @@
 locale                   : "en-US"
 title                    : Esmeralda Bernal
 title_separator          : "-"
-subtitle                 : # my personal website
-name                     : Esmeralda Bernal
-description              : Esmeralda Bernal - Projects and CV 
+subtitle                 : "My personal website"
+name                     : "Esmeralda Bernal"
+description              : "Esmeralda Bernal - Projects and CV"
 baseurl                  : "/fall-2025-portfolio-eb829"
-
+url: "https://eb829.github.io" 
 # Theme and Style
 theme: jekyll-theme-minimal
 color_scheme: light # light/default, dark, or aqua
