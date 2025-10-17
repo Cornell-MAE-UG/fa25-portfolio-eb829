@@ -8,7 +8,7 @@ permalink: /cv/
 [Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
 
 
-**Email:** [netID@cornell.edu](mailto:eb829@cornell.edu) | | | **Phone:** +1323 690 2142
+**Email:** [eb829@cornell.edu](mailto:eb829@cornell.edu) | | | **Phone:** +1323 690 2142
 
 ---
 
@@ -20,7 +20,7 @@ Aspiring mechanical engineering student with a strong foundation in CAD design, 
 #### Education
 - **Cornell University**  
   *Bachelor of Science in Mechanical Engineering*  
-  GPA: 3.8/4.0 | Graduation: May, 2028
+  GPA: 3.9/4.0 | Graduation: May, 2028
 
 - **[Downtown Magnet's High School]**  
   *International Baccalaureate Diploma & Valedictorian*  
